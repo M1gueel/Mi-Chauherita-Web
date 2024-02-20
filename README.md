@@ -1,2 +1,2 @@
 # Mu-Chauherita-Web
-Proyecto final de Aplicaiones Web
+Proyecto final de Aplicaciones Web
